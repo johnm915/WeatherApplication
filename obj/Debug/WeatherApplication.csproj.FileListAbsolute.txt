@@ -1,0 +1,13 @@
+C:\Users\John\repos\WeatherApplication\bin\Debug\WeatherApplication.exe.config
+C:\Users\John\repos\WeatherApplication\bin\Debug\WeatherApplication.exe
+C:\Users\John\repos\WeatherApplication\bin\Debug\WeatherApplication.pdb
+C:\Users\John\repos\WeatherApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\repos\WeatherApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.AssemblyReference.cache
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.Form1.resources
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.Properties.Resources.resources
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.GenerateResource.cache
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.csproj.CopyComplete
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.exe
+C:\Users\John\repos\WeatherApplication\obj\Debug\WeatherApplication.pdb
