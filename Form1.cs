@@ -57,7 +57,7 @@ namespace WeatherApplication
             }
 
         }
-        // The following creates a DateTime object with the default value.
+        // The following creates a DateTime object with the default value.  1234
         DateTime convertDateTime(long sec)
         {
             DateTime day = new DateTime(1970, 1, 1, 0, 0, 0, 0, System.DateTimeKind.Utc).ToLocalTime();
